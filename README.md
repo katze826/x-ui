@@ -14,6 +14,8 @@
 # 安装&升级
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/katze826/x-ui/master/install.sh)
+或
+wget -N https://raw.githubusercontents.com/katze826/x-ui/master/install.sh && bash install.sh
 ```
 
 ## 手动安装&升级
